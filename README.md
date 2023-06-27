@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Christian GITHUB!&fontSize=90" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HangyeomLee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=HangyeomLee&show_icons=true">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHangyeomLee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
+# Hello World, I'm Christian👋
+### System Design Engineering Student @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a>
+
+### Skills & Experience
+- 👨🏻‍💻 **Work**: It Assistant Intern @ <a href="https://uwaterloo.ca/renison/">Renison University College</a>
+- 💻 **Languages / Framework:** `Python` `TensorFlow` `OpenCV` `JavaScript` `HTML5/CSS` `SQL` `Node.js` `React` `REST API`
+- ⚙️ **Technologies / Infra:** `Git` `Bash` `Matlab` `SolidWorks`
+- 💬 **Let's chat about**:  `AL/ML` `Fullstack` `Algorithms` `UI/UX` `Projects/Work` `Opportunities`
+- 📚 **Relevant Courses:** C++ Programming Principles, Algorithms and Data structure, Introduction ofSystem Design, Introduction of Operating System
+
+---
+### Contact Me!
+- 📧 Send me an email: h38lee@uwaterloo.ca
+- 🔗 Connect with me on <a href="https://www.linkedin.com/in/hangyeom-lee-a01083250/">LinkedIn</a>
