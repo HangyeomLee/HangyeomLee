@@ -2,7 +2,7 @@
 ### System Design Engineering Student @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a>
 
 ### Skills & Experience
-- 👨🏻‍💻 **Work**: It Assistant Intern @ <a href="https://uwaterloo.ca/renison/">Renison University College</a>
+- 👨🏻‍💻 **Work**:AI/ML Intern @ <a href = "https://www.mood-me.com">Moodme</a>
 - 💻 **Languages / Framework:** `Python` `TensorFlow` `OpenCV` `JavaScript` `HTML5/CSS` `SQL` `Node.js` `React` `REST API`
 - ⚙️ **Technologies / Infra:** `Git` `Bash` `Matlab` `SolidWorks`
 - 💬 **Let's chat about**:  `AL/ML` `Fullstack` `Algorithms` `UI/UX` `Projects/Work` `Opportunities`
