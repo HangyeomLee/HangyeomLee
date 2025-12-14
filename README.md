@@ -1,14 +1,32 @@
-# Hello World, I'm Christian👋
-### System Design Engineering Student @ <a href="https://uwaterloo.ca/software-engineering">University of Waterloo </a>
+# 👋 Hi, I’m Christian (Hangyeom) Lee  
+**System Design Engineering Student @ University of Waterloo**
 
-### Skills & Experience
-- 👨🏻‍💻 **Work**:AI/ML Intern @ <a href = "http://xn--ok0bj40adqh3up.com/">Ireal</a>
-- 💻 **Languages / Framework:** `Python` `TensorFlow` `OpenCV` `JavaScript` `HTML5/CSS` `SQL` `Node.js` `React` `REST API`
-- ⚙️ **Technologies / Infra:** `Git` `Bash` `Matlab` `SolidWorks`
-- 💬 **Let's chat about**:  `AL/ML` `Fullstack` `Algorithms` `UI/UX` `Projects/Work` `Opportunities`
-- 📚 **Relevant Courses:** C++ Programming Principles, Algorithms and Data structure, Introduction of System Design, Introduction of Operating System
+I’m a software engineer focused on **full-stack systems and applied AI/ML**, with hands-on experience building real, working projects.
 
 ---
-### Contact Me!
-- 📧 Send me an email: h38lee@uwaterloo.ca
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/hangyeom-lee-a01083250/">LinkedIn</a>
+
+## 🧠 Tech Stack
+- **Backend / ML:** Python (FastAPI, Flask, Django), OpenCV, LLMs
+- **Frontend:** JavaScript, React, HTML/CSS
+- **Data / Infra:** SQL (SQLite), Git, Nginx
+- **Tools:** MATLAB, SolidWorks
+
+---
+
+## 🚀 Selected Projects
+- **Toyota_Machine_Vision** — Computer vision prototype using Python  
+- **Cyclica_Hackathon_Challenge** — ML/data solution built during a hackathon  
+- **Suika_Game_Clone** — JavaScript game clone focusing on frontend logic  
+
+👉 See pinned repositories for more.
+
+---
+
+## 💼 Experience
+**AI/ML Intern @ Ireal**
+
+---
+
+## 📫 Contact
+📧 h38lee@uwaterloo.ca  
+🔗 https://www.linkedin.com/in/hangyeom-lee-a01083250/
