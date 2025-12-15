@@ -24,6 +24,8 @@ I’m a software engineer focused on **full-stack systems and applied AI/ML**, w
 
 ## 💼 Experience
 **AI/ML Intern @ Ireal**
+**AI/ML Intern @ Moodme**
+**Teaching Assistant @ University of Waterloo**
 
 ---
 
