@@ -14,6 +14,7 @@ I’m a software engineer focused on **full-stack systems and applied AI/ML**, w
 ---
 
 ## 🚀 Selected Projects
+- **CCTV** - Human Crowd Detecting Prototype using Django
 - **Toyota_Machine_Vision** — Computer vision prototype using Python  
 - **Cyclica_Hackathon_Challenge** — ML/data solution built during a hackathon  
 - **Suika_Game_Clone** — JavaScript game clone focusing on frontend logic  
